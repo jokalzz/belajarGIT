@@ -28,4 +28,6 @@ Daftar tugas / branch
 
 - nano README.md 
 
-- git push origin -all
+- git add README.md
+
+- git push origin --all
