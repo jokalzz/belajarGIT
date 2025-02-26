@@ -27,3 +27,5 @@ Daftar tugas / branch
 - git push origin main
 
 - nano README.md 
+
+- git push origin -all
