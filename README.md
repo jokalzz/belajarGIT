@@ -10,20 +10,20 @@ Daftar tugas / branch
 
  Daftar perintah GiT:
 
-git checkout -b nama_branch_baru
+- git checkout -b nama_branch_baru
 
-touch filetxt.txt
+- touch filetxt.txt
 
-nano filetxt.txt
+- nano filetxt.txt
 
-git add filetxt.txt
+- git add filetxt.txt
 
-git commit -m "deskripsi commit"
+- git commit -m "deskripsi commit"
 
-git checkout main
+- git checkout main
 
-git merge nama_branch_baru
+- git merge nama_branch_baru
 
-git push origin main
+- git push origin main
 
-nano README.md 
+- nano README.md 
